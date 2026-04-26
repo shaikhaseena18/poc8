@@ -1,0 +1,4 @@
+sonar.projectKey=POC-8-Scan
+sonar.projectName=POC-8-DevOps
+sonar.sources=.
+sonar.sourceEncoding=UTF-8
